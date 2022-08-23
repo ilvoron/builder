@@ -1,3 +1,5 @@
+> Outdated
+
 # Сборщик проектов для [шаблона GULP](https://github.com/coolpanda02/gulp "Gulp шаблон для Frontend-разработки")
 
 ## Для работы потребуется
