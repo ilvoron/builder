@@ -1,4 +1,6 @@
-> Outdated
+# DEPRECATED
+
+![No Maintenance Intended](https://img.shields.io/maintenance/no/2020.svg)
 
 # Сборщик проектов для [шаблона GULP](https://github.com/coolpanda02/gulp "Gulp шаблон для Frontend-разработки")
 
